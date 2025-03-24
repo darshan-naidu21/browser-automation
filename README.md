@@ -1,11 +1,11 @@
-# 🚀 Subway Outlet Scraper – AI-Powered Web Automation  
+# 🚀 Subway Outlet Scraper – Agentic Web Automation  
 
 ## 📌 Overview  
 This project automates the extraction of Subway outlet details from **[Subway Malaysia](https://subway.com.my/find-a-subway)**. It uses an **agentic browsing approach** powered by **GPT-4o Mini** and the **Browser Use framework** to interact with the website dynamically.  
 
 ## 🛠️ Key Features  
 
-### ✅ **AI-Powered Web Scraping**  
+### ✅ **Agentic Web Scraping**  
 - Filters outlets by **Kuala Lumpur**.  
 - Scrapes the following details for each outlet:  
   - Name  
